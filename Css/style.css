@@ -1,0 +1,32 @@
+#principal {
+   border:  solid 28px  #FFB6C1;
+  padding: 5px;
+  margin: 0 auto;
+  width: 85%; 
+  background: #FFC0CB;
+  color: grey
+  }
+
+  fieldset{
+     border-color: beige;
+     background-color: peachpuff;
+     height: 100px;
+}
+
+legend{border-style: double; 
+   margin: 8px;
+   padding: 4px  #FFFFFF
+}
+
+body{
+   background-color: plum;
+
+}
+
+#fotoperfil {
+   border:solid 10px; color: peachpuff;
+   margin-bottom: auto;
+
+}
+
+
